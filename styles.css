@@ -12,11 +12,7 @@
     background-image: url("assets/homepage.jpg");
     background-size: cover;
     width: auto;
-<<<<<<< HEAD
-    height: 500px;
-=======
     height: 700px;
->>>>>>> 8751e5852d124dad2f584de05ed525e031bf0ed9
 }
 
 .title-primary {
@@ -46,11 +42,7 @@
 #explore-section {
     width: auto;
     background-color: #404E7C;
-<<<<<<< HEAD
-    height: 500px;
-=======
     height: 590px;
->>>>>>> 8751e5852d124dad2f584de05ed525e031bf0ed9
 }
 
 .sub-head {
